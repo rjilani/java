@@ -1,0 +1,40 @@
+<Request>   
+         <Header>        
+	         <ApplicationName>TESTAPP</ApplicationName>     
+	         <ServiceName>Documentservice</ServiceName>    
+	         <Method>Courier</Method>     
+	         <VersionToken>12.0</VersionToken>     
+	         <LocationCode>LocationCode</LocationCode>  
+         </Header>  
+         <Body>     
+         	  <RequestBody> 	<![CDATA[<DoPurchase>
+  			<DocketSystemID>25023105385</DocketSystemID> <!-- This(25022072176) Docket id is from TV ET  If using TV VT, use 25021792525 docket id -->
+  			<LocationID>33</LocationID>
+               <RequestBody>
+                     <CourierRequest>
+                           <LRO>33</LRO>
+                           <RecipientName>THIS IS A TEST</RecipientName>
+                           <Address>
+                                 <StreetNumberAndName>123 front street</StreetNumberAndName>
+                                 <City>Toronto</City>
+                                 <Province>Ontario</Province>
+                                 <PostalCode>M5J 2M2</PostalCode>
+                                 <Country>Canada</Country>                                 
+                          </Address>
+                          <DeliveryInstructions>Request single instrument.</DeliveryInstructions>
+                          <InstrumentNumbers>
+						<InstrumentNumber>LT486560</InstrumentNumber>                                                             
+                          </InstrumentNumbers>
+                     </CourierRequest>
+               </RequestBody>
+			<PaymentMethod>
+			     <DebitAccount>
+			          <DepositAcctCredentials>
+			               <TeraviewAccountName>ptrem002</TeraviewAccountName>      
+			         		<TVCredential username="fsmith02" password="Teranet1"/>  
+			          </DepositAcctCredentials>
+			      </DebitAccount>
+			</PaymentMethod>
+	       </DoPurchase>]]></RequestBody>     
+         <TransactionId>PerryTest002</TransactionId>  
+         </Body> </Request>

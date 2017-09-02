@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Request>
+	<DepositAcctCredentials>
+		<TeraviewAccountName>PTREM002</TeraviewAccountName>      
+		<TVCredential username="FSmith02" password="Teranet1"/>  
+	</DepositAcctCredentials>
+	<LRO>33</LRO>
+	<InstrumentNumbers>
+		<InstrumentNumber>MT7030861</InstrumentNumber>	       	
+	</InstrumentNumbers>
+	<ViewKey>ALL</ViewKey>
+</Request>

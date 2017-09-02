@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://mrktsbapvldv01:9000/ws/email?wsdl" uri="wsdl/mrktsbapvldv01_9000/ws/email.wsdl"/>
+    <system systemId="http://mrktsbapvldv01:9000/ws/email?wsdl=1" uri="wsdl/mrktsbapvldv01_9000/ws/email.wsdl_1.wsdl"/>
+</catalog>

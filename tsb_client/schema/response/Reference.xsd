@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by Perry Yao (Teranet) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="Reference">
+		<xs:annotation>
+			<xs:documentation>The information for reference purposes</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element name="DateTime" type="xs:dateTime">
+					<xs:annotation>
+						<xs:documentation>The date and time of processing</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element name="VersionToken" type="xs:string">
+					<xs:annotation>
+						<xs:documentation>XSD version</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element name="ResponseId" type="xs:string" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>TSB supplied, may be used for tracking or linking transactions</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,8 @@
+2013-04-14 16:51:00 INFO  TiffToPDF:55 - Bad tiff: C:\Users\rjilan01\Documents\projects\Incidents\tif	if\sttvalp2_00001540.tif
+2013-04-14 16:51:00 INFO  TiffToPDF:56 - Error message : C:\Users\rjilan01\Documents\projects\Incidents\tif	if\sttvalp2_00001540.tif not found as file or resource.
+2013-04-14 16:52:15 INFO  TiffToPDF:55 - Bad tiff: C:\Users\rjilan01\Documents\projects\Incidents\tif\tif\sttvalp2_00001540.tif
+2013-04-14 16:52:15 INFO  TiffToPDF:56 - Error message : C:\test (Access is denied)
+2013-04-14 16:54:42 INFO  TiffToPDF:55 - Bad tiff: C:\Users\rjilan01\Documents\projects\Incidents\tif\tif\sttvalp2_00001539.tif
+2013-04-14 16:54:42 INFO  TiffToPDF:56 - Error message : C:\Users\rjilan01\Documents\projects\Incidents\tif_images (Access is denied)
+2013-04-14 17:13:34 INFO  TiffToPDF:55 - Bad tiff: C:\Users\rjilan01\Documents\projects\Incidents\tif_images\blank_images
+2013-04-14 17:13:34 INFO  TiffToPDF:56 - Error message : C:\Users\rjilan01\Documents\projects\Incidents\tif_images\blank_images (Access is denied)

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by Perry Yao (Teranet) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:include schemaLocation="DepositAccountCredentials.xsd"/>
+	<xs:element name="Request">
+		<xs:annotation>
+			<xs:documentation>Request to order exceptional instruments</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element ref="DepositAcctCredentials"/>
+				<xs:element name="LRO" type="xs:int">
+					<xs:annotation>
+						<xs:documentation>Land registration office number</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element name="InstrumentNumbers">
+					<xs:annotation>
+						<xs:documentation>The list of the exceptional instruments to be ordered</xs:documentation>
+					</xs:annotation>
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="InstrumentNumber" type="xs:string" minOccurs="1" maxOccurs="10"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

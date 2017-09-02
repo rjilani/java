@@ -1,0 +1,282 @@
+2013-08-21 10:25:32 INFO  JpegToPDF:35 - >>> convert()
+2013-08-21 10:25:32 INFO  JpegToPDF:52 - convert imgActualWIDTH: 5961.0imgActualHeight: 854.0
+2013-08-21 10:25:32 INFO  JpegToPDF:76 - convert, Document Size Width:5961.0, Height:854.0
+2013-08-21 10:25:32 INFO  JpegToPDF:91 - true
+2013-08-21 10:25:32 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 5961.0 Height:854.0
+2013-08-21 10:25:32 INFO  JpegToPDF:97 - scaled, new Values Width: 5961.0 Height:854.0
+2013-08-21 10:25:32 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 210
+2013-08-21 10:44:30 INFO  JpegToPDF:35 - >>> convert()
+2013-08-21 10:44:30 INFO  JpegToPDF:52 - convert imgActualWIDTH: 12413.0imgActualHeight: 442.0
+2013-08-21 10:44:30 INFO  JpegToPDF:76 - convert, Document Size Width:12413.0, Height:442.0
+2013-08-21 10:44:30 INFO  JpegToPDF:91 - true
+2013-08-21 10:44:30 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 12413.0 Height:442.0
+2013-08-21 10:44:30 INFO  JpegToPDF:97 - scaled, new Values Width: 12413.0 Height:442.0
+2013-08-21 10:44:30 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 240
+2013-08-21 11:27:34 INFO  JpegToPDF:35 - >>> convert()
+2013-08-21 11:27:34 INFO  JpegToPDF:52 - convert imgActualWIDTH: 12413.0imgActualHeight: 442.0
+2013-08-21 11:27:34 INFO  JpegToPDF:76 - convert, Document Size Width:12413.0, Height:442.0
+2013-08-21 11:27:34 INFO  JpegToPDF:91 - true
+2013-08-21 11:27:34 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 12413.0 Height:442.0
+2013-08-21 11:27:34 INFO  JpegToPDF:97 - scaled, new Values Width: 12413.0 Height:442.0
+2013-08-21 11:27:34 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 250
+2013-08-24 18:31:32 INFO  JpegToPDF:35 - >>> convert()
+2013-08-24 18:31:33 INFO  JpegToPDF:52 - convert imgActualWIDTH: 25120.0imgActualHeight: 945.0
+2013-08-24 18:31:33 INFO  JpegToPDF:56 - convert Width is greater than Adobe allowable width of 14400 Width: 25120.0Shrinking it to 14000
+2013-08-24 18:31:33 INFO  JpegToPDF:76 - convert, Document Size Width:14400.0, Height:945.0
+2013-08-24 18:31:33 INFO  JpegToPDF:91 - true
+2013-08-24 18:31:33 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 25120.0 Height:945.0
+2013-08-24 18:31:33 INFO  JpegToPDF:97 - scaled, new Values Width: 14400.0 Height:945.0
+2013-08-24 18:31:33 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 624
+2013-08-24 18:31:33 INFO  JpegToPDF:35 - >>> convert()
+2013-08-24 18:31:33 INFO  JpegToPDF:52 - convert imgActualWIDTH: 2473.0imgActualHeight: 2110.0
+2013-08-24 18:31:33 INFO  JpegToPDF:76 - convert, Document Size Width:2473.0, Height:2110.0
+2013-08-24 18:31:33 INFO  JpegToPDF:91 - true
+2013-08-24 18:31:33 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 2473.0 Height:2110.0
+2013-08-24 18:31:33 INFO  JpegToPDF:97 - scaled, new Values Width: 2473.0 Height:2110.0
+2013-08-24 18:31:33 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 203
+2013-08-24 18:31:33 INFO  JpegToPDF:35 - >>> convert()
+2013-08-24 18:31:33 INFO  JpegToPDF:52 - convert imgActualWIDTH: 9502.0imgActualHeight: 290.0
+2013-08-24 18:31:33 INFO  JpegToPDF:76 - convert, Document Size Width:9502.0, Height:290.0
+2013-08-24 18:31:33 INFO  JpegToPDF:91 - true
+2013-08-24 18:31:33 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 9502.0 Height:290.0
+2013-08-24 18:31:33 INFO  JpegToPDF:97 - scaled, new Values Width: 9502.0 Height:290.0
+2013-08-24 18:31:33 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 125
+2013-08-24 18:31:34 INFO  JpegToPDF:35 - >>> convert()
+2013-08-24 18:31:34 INFO  JpegToPDF:52 - convert imgActualWIDTH: 12413.0imgActualHeight: 442.0
+2013-08-24 18:31:34 INFO  JpegToPDF:76 - convert, Document Size Width:12413.0, Height:442.0
+2013-08-24 18:31:34 INFO  JpegToPDF:91 - true
+2013-08-24 18:31:34 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 12413.0 Height:442.0
+2013-08-24 18:31:34 INFO  JpegToPDF:97 - scaled, new Values Width: 12413.0 Height:442.0
+2013-08-24 18:31:34 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 234
+2013-08-24 18:31:34 INFO  JpegToPDF:35 - >>> convert()
+2013-08-24 18:31:34 INFO  JpegToPDF:52 - convert imgActualWIDTH: 10313.0imgActualHeight: 306.0
+2013-08-24 18:31:34 INFO  JpegToPDF:76 - convert, Document Size Width:10313.0, Height:306.0
+2013-08-24 18:31:34 INFO  JpegToPDF:91 - true
+2013-08-24 18:31:34 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 10313.0 Height:306.0
+2013-08-24 18:31:34 INFO  JpegToPDF:97 - scaled, new Values Width: 10313.0 Height:306.0
+2013-08-24 18:31:34 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 202
+2013-08-24 18:31:34 INFO  JpegToPDF:35 - >>> convert()
+2013-08-24 18:31:34 INFO  JpegToPDF:52 - convert imgActualWIDTH: 9420.0imgActualHeight: 323.0
+2013-08-24 18:31:34 INFO  JpegToPDF:76 - convert, Document Size Width:9420.0, Height:323.0
+2013-08-24 18:31:34 INFO  JpegToPDF:91 - true
+2013-08-24 18:31:34 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 9420.0 Height:323.0
+2013-08-24 18:31:34 INFO  JpegToPDF:97 - scaled, new Values Width: 9420.0 Height:323.0
+2013-08-24 18:31:34 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 156
+2013-08-24 18:31:34 INFO  JpegToPDF:35 - >>> convert()
+2013-08-24 18:31:34 INFO  JpegToPDF:52 - convert imgActualWIDTH: 5961.0imgActualHeight: 854.0
+2013-08-24 18:31:34 INFO  JpegToPDF:76 - convert, Document Size Width:5961.0, Height:854.0
+2013-08-24 18:31:34 INFO  JpegToPDF:91 - true
+2013-08-24 18:31:34 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 5961.0 Height:854.0
+2013-08-24 18:31:34 INFO  JpegToPDF:97 - scaled, new Values Width: 5961.0 Height:854.0
+2013-08-24 18:31:34 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 203
+2013-08-24 18:31:34 INFO  JpegToPDF:35 - >>> convert()
+2013-08-24 18:31:34 INFO  JpegToPDF:52 - convert imgActualWIDTH: 3248.0imgActualHeight: 1807.0
+2013-08-24 18:31:34 INFO  JpegToPDF:76 - convert, Document Size Width:3248.0, Height:1807.0
+2013-08-24 18:31:34 INFO  JpegToPDF:91 - true
+2013-08-24 18:31:34 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 3248.0 Height:1807.0
+2013-08-24 18:31:34 INFO  JpegToPDF:97 - scaled, new Values Width: 3248.0 Height:1807.0
+2013-08-24 18:31:35 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 187
+2013-08-24 18:31:35 INFO  JpegToPDF:35 - >>> convert()
+2013-08-24 18:31:35 INFO  JpegToPDF:52 - convert imgActualWIDTH: 3286.0imgActualHeight: 2104.0
+2013-08-24 18:31:35 INFO  JpegToPDF:76 - convert, Document Size Width:3286.0, Height:2104.0
+2013-08-24 18:31:35 INFO  JpegToPDF:91 - true
+2013-08-24 18:31:35 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 3286.0 Height:2104.0
+2013-08-24 18:31:35 INFO  JpegToPDF:97 - scaled, new Values Width: 3286.0 Height:2104.0
+2013-08-24 18:31:35 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 234
+2013-08-24 18:31:35 INFO  JpegToPDF:35 - >>> convert()
+2013-08-24 18:31:35 INFO  JpegToPDF:52 - convert imgActualWIDTH: 12413.0imgActualHeight: 442.0
+2013-08-24 18:31:35 INFO  JpegToPDF:76 - convert, Document Size Width:12413.0, Height:442.0
+2013-08-24 18:31:35 INFO  JpegToPDF:91 - true
+2013-08-24 18:31:35 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 12413.0 Height:442.0
+2013-08-24 18:31:35 INFO  JpegToPDF:97 - scaled, new Values Width: 12413.0 Height:442.0
+2013-08-24 18:31:35 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 250
+2013-08-30 15:40:12 INFO  JpegToPDF:35 - >>> convert()
+2013-08-30 15:40:12 INFO  JpegToPDF:52 - convert imgActualWIDTH: 25120.0imgActualHeight: 945.0
+2013-08-30 15:40:12 INFO  JpegToPDF:56 - convert Width is greater than Adobe allowable width of 14400 Width: 25120.0Shrinking it to 14000
+2013-08-30 15:40:12 INFO  JpegToPDF:76 - convert, Document Size Width:14400.0, Height:945.0
+2013-08-30 15:40:13 INFO  JpegToPDF:91 - true
+2013-08-30 15:40:13 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 25120.0 Height:945.0
+2013-08-30 15:40:13 INFO  JpegToPDF:97 - scaled, new Values Width: 14400.0 Height:945.0
+2013-08-30 15:40:13 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 546
+2013-08-30 15:40:13 INFO  JpegToPDF:35 - >>> convert()
+2013-08-30 15:40:13 INFO  JpegToPDF:52 - convert imgActualWIDTH: 2473.0imgActualHeight: 2110.0
+2013-08-30 15:40:13 INFO  JpegToPDF:76 - convert, Document Size Width:2473.0, Height:2110.0
+2013-08-30 15:40:13 INFO  JpegToPDF:91 - true
+2013-08-30 15:40:13 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 2473.0 Height:2110.0
+2013-08-30 15:40:13 INFO  JpegToPDF:97 - scaled, new Values Width: 2473.0 Height:2110.0
+2013-08-30 15:40:13 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 187
+2013-08-30 15:40:13 INFO  JpegToPDF:35 - >>> convert()
+2013-08-30 15:40:13 INFO  JpegToPDF:52 - convert imgActualWIDTH: 9502.0imgActualHeight: 290.0
+2013-08-30 15:40:13 INFO  JpegToPDF:76 - convert, Document Size Width:9502.0, Height:290.0
+2013-08-30 15:40:13 INFO  JpegToPDF:91 - true
+2013-08-30 15:40:13 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 9502.0 Height:290.0
+2013-08-30 15:40:13 INFO  JpegToPDF:97 - scaled, new Values Width: 9502.0 Height:290.0
+2013-08-30 15:40:13 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 125
+2013-08-30 15:40:13 INFO  JpegToPDF:35 - >>> convert()
+2013-08-30 15:40:13 INFO  JpegToPDF:52 - convert imgActualWIDTH: 12413.0imgActualHeight: 442.0
+2013-08-30 15:40:13 INFO  JpegToPDF:76 - convert, Document Size Width:12413.0, Height:442.0
+2013-08-30 15:40:13 INFO  JpegToPDF:91 - true
+2013-08-30 15:40:13 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 12413.0 Height:442.0
+2013-08-30 15:40:13 INFO  JpegToPDF:97 - scaled, new Values Width: 12413.0 Height:442.0
+2013-08-30 15:40:13 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 140
+2013-08-30 15:40:13 INFO  JpegToPDF:35 - >>> convert()
+2013-08-30 15:40:13 INFO  JpegToPDF:52 - convert imgActualWIDTH: 10313.0imgActualHeight: 306.0
+2013-08-30 15:40:13 INFO  JpegToPDF:76 - convert, Document Size Width:10313.0, Height:306.0
+2013-08-30 15:40:13 INFO  JpegToPDF:91 - true
+2013-08-30 15:40:13 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 10313.0 Height:306.0
+2013-08-30 15:40:13 INFO  JpegToPDF:97 - scaled, new Values Width: 10313.0 Height:306.0
+2013-08-30 15:40:13 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 94
+2013-08-30 15:40:14 INFO  JpegToPDF:35 - >>> convert()
+2013-08-30 15:40:14 INFO  JpegToPDF:52 - convert imgActualWIDTH: 9420.0imgActualHeight: 323.0
+2013-08-30 15:40:14 INFO  JpegToPDF:76 - convert, Document Size Width:9420.0, Height:323.0
+2013-08-30 15:40:14 INFO  JpegToPDF:91 - true
+2013-08-30 15:40:14 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 9420.0 Height:323.0
+2013-08-30 15:40:14 INFO  JpegToPDF:97 - scaled, new Values Width: 9420.0 Height:323.0
+2013-08-30 15:40:14 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 109
+2013-08-30 15:40:14 INFO  JpegToPDF:35 - >>> convert()
+2013-08-30 15:40:14 INFO  JpegToPDF:52 - convert imgActualWIDTH: 5961.0imgActualHeight: 854.0
+2013-08-30 15:40:14 INFO  JpegToPDF:76 - convert, Document Size Width:5961.0, Height:854.0
+2013-08-30 15:40:14 INFO  JpegToPDF:91 - true
+2013-08-30 15:40:14 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 5961.0 Height:854.0
+2013-08-30 15:40:14 INFO  JpegToPDF:97 - scaled, new Values Width: 5961.0 Height:854.0
+2013-08-30 15:40:14 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 109
+2013-08-30 15:40:14 INFO  JpegToPDF:35 - >>> convert()
+2013-08-30 15:40:14 INFO  JpegToPDF:52 - convert imgActualWIDTH: 3248.0imgActualHeight: 1807.0
+2013-08-30 15:40:14 INFO  JpegToPDF:76 - convert, Document Size Width:3248.0, Height:1807.0
+2013-08-30 15:40:14 INFO  JpegToPDF:91 - true
+2013-08-30 15:40:14 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 3248.0 Height:1807.0
+2013-08-30 15:40:14 INFO  JpegToPDF:97 - scaled, new Values Width: 3248.0 Height:1807.0
+2013-08-30 15:40:14 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 109
+2013-08-30 15:40:14 INFO  JpegToPDF:35 - >>> convert()
+2013-08-30 15:40:14 INFO  JpegToPDF:52 - convert imgActualWIDTH: 3286.0imgActualHeight: 2104.0
+2013-08-30 15:40:14 INFO  JpegToPDF:76 - convert, Document Size Width:3286.0, Height:2104.0
+2013-08-30 15:40:14 INFO  JpegToPDF:91 - true
+2013-08-30 15:40:14 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 3286.0 Height:2104.0
+2013-08-30 15:40:14 INFO  JpegToPDF:97 - scaled, new Values Width: 3286.0 Height:2104.0
+2013-08-30 15:40:14 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 109
+2013-08-30 15:40:14 INFO  JpegToPDF:35 - >>> convert()
+2013-08-30 15:40:14 INFO  JpegToPDF:52 - convert imgActualWIDTH: 12413.0imgActualHeight: 442.0
+2013-08-30 15:40:14 INFO  JpegToPDF:76 - convert, Document Size Width:12413.0, Height:442.0
+2013-08-30 15:40:14 INFO  JpegToPDF:91 - true
+2013-08-30 15:40:14 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 12413.0 Height:442.0
+2013-08-30 15:40:14 INFO  JpegToPDF:97 - scaled, new Values Width: 12413.0 Height:442.0
+2013-08-30 15:40:14 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 172
+2013-09-04 11:14:10 INFO  JpegToPDF:35 - >>> convert()
+2013-09-04 11:14:10 INFO  JpegToPDF:52 - convert imgActualWIDTH: 1561.0imgActualHeight: 1200.0
+2013-09-04 11:14:10 INFO  JpegToPDF:76 - convert, Document Size Width:1561.0, Height:1200.0
+2013-09-04 11:14:10 INFO  JpegToPDF:91 - true
+2013-09-04 11:14:10 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 1561.0 Height:1200.0
+2013-09-04 11:14:10 INFO  JpegToPDF:97 - scaled, new Values Width: 1561.0 Height:1200.0
+2013-09-04 11:14:10 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 270
+2013-09-04 11:14:12 INFO  JpegToPDF:35 - >>> convert()
+2013-09-04 11:14:12 INFO  JpegToPDF:52 - convert imgActualWIDTH: 5534.0imgActualHeight: 3750.0
+2013-09-04 11:14:12 INFO  JpegToPDF:76 - convert, Document Size Width:5534.0, Height:3750.0
+2013-09-04 11:14:12 INFO  JpegToPDF:91 - true
+2013-09-04 11:14:12 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 5534.0 Height:3750.0
+2013-09-04 11:14:12 INFO  JpegToPDF:97 - scaled, new Values Width: 5534.0 Height:3750.0
+2013-09-04 11:14:12 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 60
+2013-09-04 11:14:12 INFO  JpegToPDF:35 - >>> convert()
+2013-09-04 11:14:12 INFO  JpegToPDF:52 - convert imgActualWIDTH: 3604.0imgActualHeight: 4937.0
+2013-09-04 11:14:12 INFO  JpegToPDF:76 - convert, Document Size Width:3604.0, Height:4937.0
+2013-09-04 11:14:12 INFO  JpegToPDF:91 - true
+2013-09-04 11:14:12 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 3604.0 Height:4937.0
+2013-09-04 11:14:12 INFO  JpegToPDF:97 - scaled, new Values Width: 3604.0 Height:4937.0
+2013-09-04 11:14:12 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 70
+2013-09-04 11:14:12 INFO  JpegToPDF:35 - >>> convert()
+2013-09-04 11:14:12 INFO  JpegToPDF:52 - convert imgActualWIDTH: 5534.0imgActualHeight: 3750.0
+2013-09-04 11:14:12 INFO  JpegToPDF:76 - convert, Document Size Width:5534.0, Height:3750.0
+2013-09-04 11:14:12 INFO  JpegToPDF:91 - true
+2013-09-04 11:14:12 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 5534.0 Height:3750.0
+2013-09-04 11:14:12 INFO  JpegToPDF:97 - scaled, new Values Width: 5534.0 Height:3750.0
+2013-09-04 11:14:12 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 80
+2013-09-04 11:14:12 INFO  JpegToPDF:35 - >>> convert()
+2013-09-04 11:14:12 INFO  JpegToPDF:52 - convert imgActualWIDTH: 3604.0imgActualHeight: 4937.0
+2013-09-04 11:14:12 INFO  JpegToPDF:76 - convert, Document Size Width:3604.0, Height:4937.0
+2013-09-04 11:14:12 INFO  JpegToPDF:91 - true
+2013-09-04 11:14:12 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 3604.0 Height:4937.0
+2013-09-04 11:14:12 INFO  JpegToPDF:97 - scaled, new Values Width: 3604.0 Height:4937.0
+2013-09-04 11:14:12 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 80
+2013-09-04 16:32:38 INFO  JpegToPDF:35 - >>> convert()
+2013-09-04 16:32:38 INFO  JpegToPDF:52 - convert imgActualWIDTH: 2152.0imgActualHeight: 2949.0
+2013-09-04 16:32:38 INFO  JpegToPDF:76 - convert, Document Size Width:2152.0, Height:2949.0
+2013-09-04 16:32:38 INFO  JpegToPDF:91 - true
+2013-09-04 16:32:38 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 2152.0 Height:2949.0
+2013-09-04 16:32:38 INFO  JpegToPDF:97 - scaled, new Values Width: 2152.0 Height:2949.0
+2013-09-04 16:32:38 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 234
+2013-09-21 21:23:41 INFO  JpegToPDF:35 - >>> convert()
+2013-09-21 21:23:41 INFO  JpegToPDF:52 - convert imgActualWIDTH: 5534.0imgActualHeight: 3750.0
+2013-09-21 21:23:41 INFO  JpegToPDF:76 - convert, Document Size Width:5534.0, Height:3750.0
+2013-09-21 21:23:41 INFO  JpegToPDF:91 - true
+2013-09-21 21:23:41 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 5534.0 Height:3750.0
+2013-09-21 21:23:41 INFO  JpegToPDF:97 - scaled, new Values Width: 5534.0 Height:3750.0
+2013-09-21 21:23:41 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 343
+2013-09-21 21:23:41 INFO  JpegToPDF:35 - >>> convert()
+2013-09-21 21:23:41 INFO  JpegToPDF:52 - convert imgActualWIDTH: 3604.0imgActualHeight: 4937.0
+2013-09-21 21:23:41 INFO  JpegToPDF:76 - convert, Document Size Width:3604.0, Height:4937.0
+2013-09-21 21:23:41 INFO  JpegToPDF:91 - true
+2013-09-21 21:23:41 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 3604.0 Height:4937.0
+2013-09-21 21:23:41 INFO  JpegToPDF:97 - scaled, new Values Width: 3604.0 Height:4937.0
+2013-09-21 21:23:41 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 78
+2013-09-21 21:23:41 INFO  JpegToPDF:35 - >>> convert()
+2013-09-21 21:23:41 INFO  JpegToPDF:52 - convert imgActualWIDTH: 5534.0imgActualHeight: 3750.0
+2013-09-21 21:23:41 INFO  JpegToPDF:76 - convert, Document Size Width:5534.0, Height:3750.0
+2013-09-21 21:23:41 INFO  JpegToPDF:91 - true
+2013-09-21 21:23:41 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 5534.0 Height:3750.0
+2013-09-21 21:23:41 INFO  JpegToPDF:97 - scaled, new Values Width: 5534.0 Height:3750.0
+2013-09-21 21:23:41 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 125
+2013-09-21 21:23:41 INFO  JpegToPDF:35 - >>> convert()
+2013-09-21 21:23:41 INFO  JpegToPDF:52 - convert imgActualWIDTH: 2152.0imgActualHeight: 2949.0
+2013-09-21 21:23:41 INFO  JpegToPDF:76 - convert, Document Size Width:2152.0, Height:2949.0
+2013-09-21 21:23:41 INFO  JpegToPDF:91 - true
+2013-09-21 21:23:41 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 2152.0 Height:2949.0
+2013-09-21 21:23:41 INFO  JpegToPDF:97 - scaled, new Values Width: 2152.0 Height:2949.0
+2013-09-21 21:23:41 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 62
+2013-09-21 21:23:41 INFO  JpegToPDF:35 - >>> convert()
+2013-09-21 21:23:41 INFO  JpegToPDF:52 - convert imgActualWIDTH: 3604.0imgActualHeight: 4937.0
+2013-09-21 21:23:41 INFO  JpegToPDF:76 - convert, Document Size Width:3604.0, Height:4937.0
+2013-09-21 21:23:41 INFO  JpegToPDF:91 - true
+2013-09-21 21:23:41 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 3604.0 Height:4937.0
+2013-09-21 21:23:41 INFO  JpegToPDF:97 - scaled, new Values Width: 3604.0 Height:4937.0
+2013-09-21 21:23:42 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 78
+2013-09-21 21:25:23 INFO  JpegToPDF:35 - >>> convert()
+2013-09-21 21:25:24 INFO  JpegToPDF:52 - convert imgActualWIDTH: 5534.0imgActualHeight: 3750.0
+2013-09-21 21:25:24 INFO  JpegToPDF:76 - convert, Document Size Width:5534.0, Height:3750.0
+2013-09-21 21:25:24 INFO  JpegToPDF:91 - true
+2013-09-21 21:25:24 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 5534.0 Height:3750.0
+2013-09-21 21:25:24 INFO  JpegToPDF:97 - scaled, new Values Width: 5534.0 Height:3750.0
+2013-09-21 21:25:24 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 234
+2013-09-21 21:25:24 INFO  JpegToPDF:35 - >>> convert()
+2013-09-21 21:25:24 INFO  JpegToPDF:52 - convert imgActualWIDTH: 3604.0imgActualHeight: 4937.0
+2013-09-21 21:25:24 INFO  JpegToPDF:76 - convert, Document Size Width:3604.0, Height:4937.0
+2013-09-21 21:25:24 INFO  JpegToPDF:91 - true
+2013-09-21 21:25:24 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 3604.0 Height:4937.0
+2013-09-21 21:25:24 INFO  JpegToPDF:97 - scaled, new Values Width: 3604.0 Height:4937.0
+2013-09-21 21:25:24 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 16
+2013-09-21 21:25:24 INFO  JpegToPDF:35 - >>> convert()
+2013-09-21 21:25:24 INFO  JpegToPDF:52 - convert imgActualWIDTH: 5534.0imgActualHeight: 3750.0
+2013-09-21 21:25:24 INFO  JpegToPDF:76 - convert, Document Size Width:5534.0, Height:3750.0
+2013-09-21 21:25:24 INFO  JpegToPDF:91 - true
+2013-09-21 21:25:24 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 5534.0 Height:3750.0
+2013-09-21 21:25:24 INFO  JpegToPDF:97 - scaled, new Values Width: 5534.0 Height:3750.0
+2013-09-21 21:25:24 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 31
+2013-09-21 21:25:24 INFO  JpegToPDF:35 - >>> convert()
+2013-09-21 21:25:24 INFO  JpegToPDF:52 - convert imgActualWIDTH: 2152.0imgActualHeight: 2949.0
+2013-09-21 21:25:24 INFO  JpegToPDF:76 - convert, Document Size Width:2152.0, Height:2949.0
+2013-09-21 21:25:24 INFO  JpegToPDF:91 - true
+2013-09-21 21:25:24 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 2152.0 Height:2949.0
+2013-09-21 21:25:24 INFO  JpegToPDF:97 - scaled, new Values Width: 2152.0 Height:2949.0
+2013-09-21 21:25:24 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 31
+2013-09-21 21:25:24 INFO  JpegToPDF:35 - >>> convert()
+2013-09-21 21:25:24 INFO  JpegToPDF:52 - convert imgActualWIDTH: 3604.0imgActualHeight: 4937.0
+2013-09-21 21:25:24 INFO  JpegToPDF:76 - convert, Document Size Width:3604.0, Height:4937.0
+2013-09-21 21:25:24 INFO  JpegToPDF:91 - true
+2013-09-21 21:25:24 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 3604.0 Height:4937.0
+2013-09-21 21:25:24 INFO  JpegToPDF:97 - scaled, new Values Width: 3604.0 Height:4937.0
+2013-09-21 21:25:24 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 16
+2013-09-21 21:25:24 INFO  JpegToPDF:35 - >>> convert()
+2013-09-21 21:25:24 INFO  JpegToPDF:52 - convert imgActualWIDTH: 401.0imgActualHeight: 80.0
+2013-09-21 21:25:24 INFO  JpegToPDF:76 - convert, Document Size Width:401.0, Height:80.0
+2013-09-21 21:25:24 INFO  JpegToPDF:91 - true
+2013-09-21 21:25:24 INFO  JpegToPDF:94 - scale it!, OLD Values Width: 401.0 Height:80.0
+2013-09-21 21:25:24 INFO  JpegToPDF:97 - scaled, new Values Width: 401.0 Height:80.0
+2013-09-21 21:25:24 INFO  JpegToPDF:107 - <<< convert(), Conversion took: 16

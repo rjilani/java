@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Request>   
+         <Header>        
+         <ApplicationName>TESTAPP</ApplicationName>     
+         <ServiceName>Pinservice</ServiceName>    
+         <Method>GetParcelRegister</Method>     
+         <VersionToken>12.0</VersionToken>     
+         <LocationCode>LocationCode</LocationCode>  
+         </Header>  <Body>     <RequestBody> 
+         <![CDATA[<DoPurchase>
+  <Description>Description</Description>
+  <DocketSystemID>25022605365</DocketSystemID>  
+  <LocationID>0</LocationID>
+  <RequestBody>
+    <ParcelRegisterRequest>
+      <LRO>33</LRO>
+      <PIN>08322-0009</PIN>
+      <IncludeDeletedFlag>true</IncludeDeletedFlag>
+      <PreparedBy>SoapUI</PreparedBy>
+      <Language>E</Language>
+    </ParcelRegisterRequest>
+  </RequestBody>
+  <PaymentMethod>
+    <DebitAccount>
+      <DepositAcctCredentials>
+        <TeraviewAccountName>PTREM002</TeraviewAccountName>      
+         <TVCredential username="FSmith02" password="Teranet1"/> 
+      </DepositAcctCredentials>
+    </DebitAccount>
+  </PaymentMethod>
+</DoPurchase>]]></RequestBody>     
+         <TransactionId>TransactionID</TransactionId>  
+         </Body> </Request>

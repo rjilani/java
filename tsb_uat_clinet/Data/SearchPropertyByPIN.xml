@@ -1,0 +1,22 @@
+<Request>
+   <Header>
+        <ApplicationName>TESTAPP</ApplicationName>
+    <ServiceName>Pinservice</ServiceName>
+    <Method>SearchPropertyByPIN</Method>
+    <VersionToken>12.0</VersionToken>
+    <LocationCode>LocationCode</LocationCode>
+  </Header>
+  <Body>
+    <RequestBody>
+                <![CDATA[<Request>
+                         <DepositAcctCredentials>
+                         <TeraviewAccountName>PTREM002</TeraviewAccountName>      
+         				<TVCredential username="FSmith02" password="Teranet1"/>  
+                         </DepositAcctCredentials>
+                          <LRO>33</LRO>
+  					 <PIN>08480-0200</PIN>
+                </Request>]]>
+         </RequestBody>
+    <TransactionId>TransactionID</TransactionId>
+  </Body>
+</Request>

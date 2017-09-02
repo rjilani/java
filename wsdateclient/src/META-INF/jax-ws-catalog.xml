@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://127.0.0.1:9999/ws/date" uri="wsdl/127.0.0.1_9999/ws/date.xml"/>
+    <system systemId="http://127.0.0.1:9999/ws/date?wsdl" uri="wsdl/127.0.0.1_9999/ws/date.wsdl"/>
+    <system systemId="http://127.0.0.1:9999/ws/date?wsdl=1" uri="wsdl/127.0.0.1_9999/ws/date.wsdl_1.wsdl"/>
+    <system systemId="http://127.0.0.1:8080/ws/date?wsdl" uri="wsdl/127.0.0.1_8080/ws/date.wsdl"/>
+    <system systemId="http://127.0.0.1:8080/ws/date?wsdl=1" uri="wsdl/127.0.0.1_8080/ws/date.wsdl_1.wsdl"/>
+    <system systemId="http://40368-NB:9999/ws/date?wsdl" uri="wsdl/40368-NB_9999/ws/date.wsdl"/>
+    <system systemId="http://40368-NB:9999/ws/date?wsdl=1" uri="wsdl/40368-NB_9999/ws/date.wsdl_1.wsdl"/>
+    <system systemId="http://40368-NB:8080/ws/date?wsdl" uri="wsdl/40368-NB_8080/ws/date.wsdl"/>
+    <system systemId="http://40368-NB:8080/ws/date?wsdl=1" uri="wsdl/40368-NB_8080/ws/date.wsdl_1.wsdl"/>
+    <system systemId="http://172.25.121.39:9999/ws/date?wsdl" uri="wsdl/172.25.121.39_9999/ws/date.wsdl"/>
+    <system systemId="http://172.25.121.39:9999/ws/date?wsdl=1" uri="wsdl/172.25.121.39_9999/ws/date.wsdl_1.wsdl"/>
+    <system systemId="http://mrktsbapvlut01:9999/ws/date?wsdl" uri="wsdl/mrktsbapvlut01_9999/ws/date.wsdl"/>
+    <system systemId="http://mrktsbapvlut01:9999/ws/date?wsdl=1" uri="wsdl/mrktsbapvlut01_9999/ws/date.wsdl_1.wsdl"/>
+</catalog>

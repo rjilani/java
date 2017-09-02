@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by Perry Yao (Teranet) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:include schemaLocation="PaymentMethod.xsd"/>
+	<xs:element name="DoPurchase">
+		<xs:annotation>
+			<xs:documentation>Purchase writs product - writs search by name</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Description" type="xs:string">
+					<xs:annotation>
+						<xs:documentation>Expected format: name searched</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element name="DocketSystemID">
+					<xs:annotation>
+						<xs:documentation>Value of this is returned from the creator of search docket</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:restriction base="xs:long">
+							<xs:minInclusive value="0"/>
+							<xs:maxInclusive value="999999999999"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="LocationID" type="xs:short">
+					<xs:annotation>
+						<xs:documentation>Land registration office number containing the enforcement office number in the request form</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element name="RequestBody" type="RequestBodyType">
+					<xs:annotation>
+						<xs:documentation>Contain request to call writ search by name</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="PaymentMethod"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<!-- RequestBody Info-->
+	<xs:complexType name="RequestBodyType">
+		<xs:sequence>
+			<xs:element name="WritSearchbyNameRequest">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="EO" type="xs:int">
+							<xs:annotation>
+								<xs:documentation>Enforcement office number</xs:documentation>
+							</xs:annotation>
+						</xs:element>
+						<xs:element name="ClientRefNum" type="xs:string">
+							<xs:annotation>
+								<xs:documentation>Client reference number</xs:documentation>
+							</xs:annotation>
+						</xs:element>
+						<xs:element name="SearchName">
+							<xs:complexType>
+								<xs:sequence>
+									<xs:element name="FirstName" type="xs:string">
+										<xs:annotation>
+											<xs:documentation>First and middle name or first 60 characters of a company name</xs:documentation>
+										</xs:annotation>
+									</xs:element>
+									<xs:element name="LastName" type="xs:string" minOccurs="0">
+										<xs:annotation>
+											<xs:documentation>Lastname or the remainder of the company name (up to 60 char)</xs:documentation>
+										</xs:annotation>
+									</xs:element>
+									<xs:element name="Type">
+										<xs:annotation>
+											<xs:documentation>See enum</xs:documentation>
+										</xs:annotation>
+										<xs:simpleType>
+											<xs:restriction base="xs:string">
+												<xs:enumeration value="P">
+													<xs:annotation>
+														<xs:documentation>Person</xs:documentation>
+													</xs:annotation>
+												</xs:enumeration>
+												<xs:enumeration value="C">
+													<xs:annotation>
+														<xs:documentation>Company</xs:documentation>
+													</xs:annotation>
+												</xs:enumeration>
+											</xs:restriction>
+										</xs:simpleType>
+									</xs:element>
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+						<xs:element name="ReferenceTo" type="xs:string" minOccurs="0">
+							<xs:annotation>
+								<xs:documentation>Teranet user name</xs:documentation>
+							</xs:annotation>
+						</xs:element>
+						<xs:element name="SearchAllInd">
+							<xs:annotation>
+								<xs:documentation>Indicator if the entire province is to be searched. See enum</xs:documentation>
+							</xs:annotation>
+							<xs:simpleType>
+								<xs:restriction base="xs:string">
+									<xs:enumeration value="false"/>
+								</xs:restriction>
+							</xs:simpleType>
+						</xs:element>
+						<xs:element name="ChargeableInd">
+							<xs:annotation>
+								<xs:documentation>Indicator if amount is to be shown in the certificate. See enum</xs:documentation>
+							</xs:annotation>
+							<xs:simpleType>
+								<xs:restriction base="xs:string">
+									<xs:enumeration value="true"/>
+								</xs:restriction>
+							</xs:simpleType>
+						</xs:element>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>

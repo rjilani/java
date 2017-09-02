@@ -1,0 +1,21 @@
+[Valid email addresses] 
+niceandsimple@example.com
+very.common@example.com
+a.little.lengthy.but.fine@dept.example.com
+disposable.style.email.with+symbol@example.com
+other.email-with-dash@example.com
+user@localserver.com
+another_acceptable_example@server.com
+[Invalid email addresses]
+user@localserver.com.
+.user@localserver.com
+.user@localserver.com.
+user@localserver.com$
+Abc.example.com
+A@b@c@example.com  
+a"b(c)d,e:f;g<h>i[j\k]l@example.com 
+just"not"right@example.com
+this is"not\allowed@example.com
+this\ still\"not\\allowed@example.com
+john..doe@example.com
+john.doe@example..com

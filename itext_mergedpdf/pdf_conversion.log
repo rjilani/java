@@ -1,0 +1,224 @@
+2013-06-26 08:25:07 INFO  Concatenate:52 - 2
+2013-06-26 08:25:33 INFO  Concatenate:87 - Files Merged
+2013-06-26 08:26:58 INFO  Concatenate:52 - Merging 2 files
+2013-06-26 08:29:21 INFO  Concatenate:53 - Destination dir =C:\Users\rjilan01\Documents\projects
+2013-06-26 08:29:21 INFO  Concatenate:55 - Merging 2 files
+2013-06-26 08:29:39 INFO  Concatenate:90 - Files Merged
+2013-06-26 08:32:05 INFO  Concatenate:53 - Destination dir =null
+2013-06-26 08:32:05 INFO  Concatenate:55 - Merging 2 files
+2013-06-26 08:32:24 INFO  Concatenate:90 - Files Merged
+2013-06-26 08:34:51 INFO  Concatenate:53 - Destination dir =./concatenated.pdf
+2013-06-26 08:34:51 INFO  Concatenate:55 - Merging 2 files
+2013-06-26 08:35:01 INFO  Concatenate:66 - C:\Users\rjilan01\Documents\test_tiff\pdf\1.pdf
+2013-06-26 08:35:01 INFO  Concatenate:66 - C:\Users\rjilan01\Documents\test_tiff\pdf\2.pdf
+2013-06-26 08:35:11 INFO  Concatenate:90 - Files Merged
+2013-06-26 08:35:33 INFO  Concatenate:53 - Destination dir =C:\Users\rjilan01\Documents\/concatenated.pdf
+2013-06-26 08:35:33 INFO  Concatenate:55 - Merging 2 files
+2013-06-26 08:35:43 INFO  Concatenate:66 - C:\Users\rjilan01\Documents\test_tiff\pdf\1.pdf
+2013-06-26 08:35:43 INFO  Concatenate:66 - C:\Users\rjilan01\Documents\test_tiff\pdf\2.pdf
+2013-06-26 08:35:53 INFO  Concatenate:90 - Files Merged
+2013-06-26 08:37:23 INFO  Concatenate:53 - Destination dir =C:\Users\rjilan01\Documents\
+2013-06-26 08:37:23 INFO  Concatenate:55 - Merging 2 files
+2013-06-26 08:37:33 INFO  Concatenate:66 - C:\Users\rjilan01\Documents\test_tiff\pdf\1.pdf
+2013-06-26 08:37:33 INFO  Concatenate:66 - C:\Users\rjilan01\Documents\test_tiff\pdf\2.pdf
+2013-06-26 08:37:44 INFO  Concatenate:90 - Files Merged
+2013-06-26 08:38:06 INFO  Concatenate:53 - Destination dir =C:\Users\rjilan01\Documents
+2013-06-26 08:38:06 INFO  Concatenate:55 - Merging 2 files
+2013-06-26 08:38:16 INFO  Concatenate:66 - C:\Users\rjilan01\Documents\test_tiff\pdf\1.pdf
+2013-06-26 08:38:16 INFO  Concatenate:66 - C:\Users\rjilan01\Documents\test_tiff\pdf\2.pdf
+2013-06-26 08:38:24 INFO  Concatenate:90 - Files Merged
+2013-06-26 21:24:15 INFO  Concatenate:54 - Destination dir =C:\Users\rjilan01\Documents
+2013-06-26 21:24:15 INFO  Concatenate:56 - Merging 2 files
+2013-06-26 21:24:25 INFO  Concatenate:67 - C:\Users\rjilan01\Documents\test_tiff\pdf\Biz2.pdf
+2013-06-26 21:24:25 INFO  Concatenate:67 - C:\Users\rjilan01\Documents\test_tiff\pdf\Wide 24bit jpeg7.pdf
+2013-06-26 21:45:11 INFO  Concatenate:91 - Files Merged
+2013-06-27 07:30:45 INFO  Concatenate:54 - Destination dir =null
+2013-06-27 07:30:45 INFO  Concatenate:56 - Merging 2 files
+2013-06-27 07:30:55 INFO  Concatenate:67 - C:\Users\rjilan01\Documents\test_tiff\pdf\Biz2.pdf
+2013-06-27 07:30:55 INFO  Concatenate:67 - C:\Users\rjilan01\Documents\test_tiff\pdf\Wide 24bit jpeg7.pdf
+2013-06-27 07:32:43 INFO  Concatenate:54 - Destination dir =C:\Users\rjilan01\Documents
+2013-06-27 07:32:43 INFO  Concatenate:56 - Merging 2 files
+2013-06-27 07:32:54 INFO  Concatenate:67 - C:\Users\rjilan01\Documents\test_tiff\pdf\Biz2.pdf
+2013-06-27 07:32:54 INFO  Concatenate:67 - C:\Users\rjilan01\Documents\test_tiff\pdf\Wide 24bit jpeg7.pdf
+2013-06-27 07:34:20 INFO  Concatenate:54 - Destination dir =C:\Users\rjilan01\Documents
+2013-06-27 07:34:20 INFO  Concatenate:56 - Merging 2 files
+2013-06-27 07:34:30 INFO  Concatenate:67 - C:\Users\rjilan01\Documents\test_tiff\pdf\Biz2.pdf
+2013-06-27 07:34:30 INFO  Concatenate:67 - C:\Users\rjilan01\Documents\test_tiff\pdf\Wide 24bit jpeg7.pdf
+2013-06-27 07:35:21 INFO  Concatenate:54 - Destination dir =C:\Users\rjilan01\Documents
+2013-06-27 07:35:21 INFO  Concatenate:56 - Merging 2 files
+2013-06-27 07:35:21 INFO  Concatenate:67 - C:\Users\rjilan01\Documents\test_tiff\pdf\Biz2.pdf
+2013-06-27 07:35:21 INFO  Concatenate:67 - C:\Users\rjilan01\Documents\test_tiff\pdf\Wide 24bit jpeg7.pdf
+2013-06-27 08:21:48 INFO  Concatenate:54 - Destination dir =C:\Users\rjilan01\Documents
+2013-06-27 08:21:48 INFO  Concatenate:56 - Merging 2 files
+2013-06-27 08:21:48 INFO  Concatenate:67 - C:\Users\rjilan01\Documents\test_tiff\pdf\Biz2.pdf
+2013-06-27 08:21:48 INFO  Concatenate:67 - C:\Users\rjilan01\Documents\test_tiff\pdf\Wide 24bit jpeg7.pdf
+2013-06-27 08:21:48 INFO  Concatenate:81 - streaming
+2013-06-27 08:22:37 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents
+2013-06-27 08:22:37 INFO  Concatenate:54 - Merging 2 files
+2013-06-27 08:22:37 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\test_tiff\pdf\Biz2.pdf
+2013-06-27 08:22:37 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\test_tiff\pdf\Wide 24bit jpeg7.pdf
+2013-06-27 11:50:52 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\test_tiff\pdfs
+2013-06-27 11:50:52 INFO  Concatenate:54 - Merging 2 files
+2013-06-27 11:50:52 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\test_tiff\pdfs\1.pdf
+2013-06-27 11:50:52 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\test_tiff\pdfs\test.pdf
+2013-06-27 11:50:52 INFO  Concatenate:96 - Files Merged
+2013-06-27 11:55:44 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\test_tiff\pdfs
+2013-06-27 11:55:44 INFO  Concatenate:54 - Merging 2 files
+2013-06-27 11:55:44 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\test_tiff\pdfs\Reg24bitjpeg7-1.pdf
+2013-06-27 11:55:44 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\test_tiff\pdfs\Reg24bitjpeg7.pdf
+2013-06-27 11:55:45 INFO  Concatenate:96 - Files Merged
+2013-07-09 08:39:30 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\encryption
+2013-07-09 08:39:30 INFO  Concatenate:54 - Merging 2 files
+2013-07-09 08:39:30 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryption.pdf
+2013-07-09 08:39:30 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryption2.pdf
+2013-07-09 08:40:38 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\encryption
+2013-07-09 08:40:38 INFO  Concatenate:54 - Merging 3 files
+2013-07-09 08:40:38 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\concatenated.pdf
+2013-07-09 08:40:38 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryption.pdf
+2013-07-09 08:40:38 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryption2.pdf
+2013-08-21 12:52:46 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\encryption
+2013-08-21 12:52:46 INFO  Concatenate:54 - Merging 3 files
+2013-08-21 12:52:46 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryption.pdf
+2013-08-21 12:52:46 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryption_decrypted.pdf
+2013-08-21 12:52:46 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryption_encrypted.pdf
+2013-08-21 15:12:09 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\encryption
+2013-08-21 15:12:09 INFO  Concatenate:54 - Merging 4 files
+2013-08-21 15:12:09 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\concatenated.pdf
+2013-08-21 15:12:09 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryption.pdf
+2013-08-21 15:12:09 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryption_decrypted.pdf
+2013-08-21 15:12:09 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryption_encrypted.pdf
+2013-08-21 15:13:05 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\encryption
+2013-08-21 15:13:05 INFO  Concatenate:54 - Merging 4 files
+2013-08-21 15:13:05 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\concatenated.pdf
+2013-08-21 15:13:05 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryption.pdf
+2013-08-21 15:13:05 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryption_decrypted.pdf
+2013-08-21 15:13:05 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryption_encrypted.pdf
+2013-08-21 15:14:29 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\encryption
+2013-08-21 15:14:29 INFO  Concatenate:54 - Merging 4 files
+2013-08-21 15:14:29 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\concatenated.pdf
+2013-08-21 15:14:29 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryption.pdf
+2013-08-21 15:14:29 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryption_decrypted.pdf
+2013-08-21 15:14:29 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryption_encrypted.pdf
+2013-08-21 15:14:56 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\encryption
+2013-08-21 15:14:56 INFO  Concatenate:54 - Merging 0 files
+2013-08-21 15:15:38 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\encryption
+2013-08-21 15:15:38 INFO  Concatenate:54 - Merging 3 files
+2013-08-21 15:15:38 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryption.pdf
+2013-08-21 15:15:38 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryption_decrypted.pdf
+2013-08-21 15:15:38 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryption_encrypted.pdf
+2013-10-09 15:32:14 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\Merged
+2013-10-09 15:32:14 INFO  Concatenate:54 - Merging 2 files
+2013-10-09 15:32:14 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[3].pdf
+2013-10-09 15:32:14 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[4].pdf
+2013-10-09 15:33:42 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\Merged
+2013-10-09 15:33:42 INFO  Concatenate:54 - Merging 3 files
+2013-10-09 15:33:42 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\concatenated.pdf
+2013-10-09 15:33:42 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[3].pdf
+2013-10-09 15:33:42 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[4].pdf
+2013-10-09 15:34:48 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\Merged
+2013-10-09 15:34:48 INFO  Concatenate:54 - Merging 2 files
+2013-10-09 15:34:48 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[3] - Copy.pdf
+2013-10-09 15:34:48 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[3].pdf
+2013-10-09 15:34:48 INFO  Concatenate:96 - Files Merged
+2013-10-09 15:35:28 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\Merged
+2013-10-09 15:35:28 INFO  Concatenate:54 - Merging 2 files
+2013-10-09 15:35:28 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\concatenated.pdf
+2013-10-09 15:35:28 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[4].pdf
+2013-10-09 15:44:31 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\Merged
+2013-10-09 15:44:31 INFO  Concatenate:54 - Merging 3 files
+2013-10-09 15:44:31 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\concatenated.pdf
+2013-10-09 15:44:31 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[3].pdf
+2013-10-09 15:44:31 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[4].pdf
+2013-10-09 19:48:10 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\Merged
+2013-10-09 19:48:10 INFO  Concatenate:54 - Merging 3 files
+2013-10-09 19:48:10 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\concatenated.pdf
+2013-10-09 19:48:10 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[3].pdf
+2013-10-09 19:48:10 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[4].pdf
+2013-10-10 10:45:01 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\Merged
+2013-10-10 10:45:01 INFO  Concatenate:54 - Merging 3 files
+2013-10-10 10:45:01 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\concatenated.pdf
+2013-10-10 10:45:01 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[3].pdf
+2013-10-10 10:45:01 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[4].pdf
+2013-10-10 10:45:30 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\Merged
+2013-10-10 10:45:30 INFO  Concatenate:54 - Merging 3 files
+2013-10-10 10:45:30 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\concatenated.pdf
+2013-10-10 10:45:30 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[3].pdf
+2013-10-10 10:45:30 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[4].pdf
+2013-10-10 17:43:58 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\Merged
+2013-10-10 17:43:58 INFO  Concatenate:54 - Merging 3 files
+2013-10-10 17:43:58 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\concatenated.pdf
+2013-10-10 17:43:58 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[3].pdf
+2013-10-10 17:43:58 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[4].pdf
+2013-11-04 15:30:11 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\Merged
+2013-11-04 15:30:11 INFO  Concatenate:54 - Merging 3 files
+2013-11-04 15:30:11 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\concatenated.pdf
+2013-11-04 15:30:11 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[3].pdf
+2013-11-04 15:30:11 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[4].pdf
+2013-11-04 15:30:41 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\encryption
+2013-11-04 15:30:41 INFO  Concatenate:54 - Merging 3 files
+2013-11-04 15:30:41 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\decrypted.pdf
+2013-11-04 15:30:41 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encrypted.pdf
+2013-11-04 15:30:41 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryptedFromDecrypted.pdf
+2013-11-04 15:41:51 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\encryption
+2013-11-04 15:41:51 INFO  Concatenate:54 - Merging 3 files
+2013-11-04 15:41:51 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\decrypted.pdf
+2013-11-04 15:41:51 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encrypted.pdf
+2013-11-04 15:41:51 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryptedFromDecrypted.pdf
+2013-11-04 15:44:44 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\encryption
+2013-11-04 15:44:44 INFO  Concatenate:54 - Merging 2 files
+2013-11-04 15:44:44 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encrypted.pdf
+2013-11-04 15:44:44 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encrypted1.pdf
+2013-11-04 15:45:30 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\encryption
+2013-11-04 15:45:30 INFO  Concatenate:54 - Merging 3 files
+2013-11-04 15:45:30 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\decrypted.pdf
+2013-11-04 15:45:30 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encrypted.pdf
+2013-11-04 15:45:30 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encryptedFromDecrypted.pdf
+2013-11-05 08:28:14 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\encryption
+2013-11-05 08:28:14 INFO  Concatenate:54 - Merging 2 files
+2013-11-05 08:28:14 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encrypted.pdf
+2013-11-05 08:28:14 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encrypted1.pdf
+2013-11-05 08:31:33 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\encryption
+2013-11-05 08:31:33 INFO  Concatenate:54 - Merging 3 files
+2013-11-05 08:31:33 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\concatenated.pdf
+2013-11-05 08:31:33 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encrypted.pdf
+2013-11-05 08:31:33 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encrypted1.pdf
+2013-11-05 08:32:43 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\encryption
+2013-11-05 08:32:43 INFO  Concatenate:54 - Merging 2 files
+2013-11-05 08:32:43 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encrypted.pdf
+2013-11-05 08:32:43 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\encryption\encrypted1.pdf
+2013-11-05 08:36:20 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\projects\CDS\Merged
+2013-11-05 08:36:20 INFO  Concatenate:54 - Merging 3 files
+2013-11-05 08:36:20 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\concatenated.pdf
+2013-11-05 08:36:20 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[3].pdf
+2013-11-05 08:36:20 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\projects\CDS\Merged\preview[4].pdf
+2014-05-19 12:07:50 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial
+2014-05-19 12:07:50 INFO  Concatenate:54 - Merging 22 files
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\Part 1_ Introducing threads and runnables _ JavaWorld.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\Part 1_ Introducing threads and runnables _ JavaWorld2.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\Part 1_ Introducing threads and runnables _ JavaWorld3.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\Part 2_ Thread synchronization _ JavaWorld.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\Part 2_ Thread synchronization _ JavaWorld2.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\Part 2_ Thread synchronization _ JavaWorld3.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\Part 3_ Thread scheduling and wait_notify _ JavaWorld.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\Part 3_ Thread scheduling and wait_notify _ JavaWorld2.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\Part 3_ Thread scheduling and wait_notify _ JavaWorld3.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\Part 3_ Thread scheduling and wait_notify _ JavaWorld4.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\Part 4_ Thread groups, volatility, and thread-local variables _ JavaWorld.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\Part 4_ Thread groups, volatility, and thread-local variables _ JavaWorld1.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\Part 4_ Thread groups, volatility, and thread-local variables _ JavaWorld2.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\Part 4_ Thread groups, volatility, and thread-local variables _ JavaWorld3.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\The next generation_ Java concurrency without the pain, Part 1 _ JavaWorld.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\The next generation_ Java concurrency without the pain, Part 1 _ JavaWorld1.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\The next generation_ Java concurrency without the pain, Part 1 _ JavaWorld2.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\The next generation_ Java concurrency without the pain, Part 1 _ JavaWorld3.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\The next generation_ Java concurrency without the pain, Part 2 _ JavaWorld.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\The next generation_ Java concurrency without the pain, Part 2 _ JavaWorld1.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\The next generation_ Java concurrency without the pain, Part 2 _ JavaWorld2.pdf
+2014-05-19 12:07:50 INFO  Concatenate:65 - C:\Users\rjilan01\Documents\technical_docs\ThreadingTutorial\The next generation_ Java concurrency without the pain, Part 2 _ JavaWorld3.pdf
+2014-05-19 12:07:52 INFO  Concatenate:96 - Files Merged
+2014-05-20 09:33:12 INFO  Concatenate:52 - Destination dir =C:\Users\rjilan01\Downloads\letter
+2014-05-20 09:33:12 INFO  Concatenate:54 - Merging 3 files
+2014-05-20 09:33:12 INFO  Concatenate:65 - C:\Users\rjilan01\Downloads\letter\0140_001.pdf
+2014-05-20 09:33:12 INFO  Concatenate:65 - C:\Users\rjilan01\Downloads\letter\0141_001.pdf
+2014-05-20 09:33:12 INFO  Concatenate:65 - C:\Users\rjilan01\Downloads\letter\0142_001.pdf
+2014-05-20 09:33:12 INFO  Concatenate:96 - Files Merged

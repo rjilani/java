@@ -1,0 +1,36 @@
+<Request>   
+         <Header>        
+         <ApplicationName>TESTAPP</ApplicationName>     
+         <ServiceName>Documentservice</ServiceName>    
+         <Method>DownLoadDocument</Method>     
+         <VersionToken>12.0</VersionToken>     
+         <LocationCode>LocationCode</LocationCode>  
+         </Header>  <Body>     <RequestBody> 
+         <![CDATA[<DoPurchase>
+  <Description>Description</Description>
+  <DocketSystemID>25022605365</DocketSystemID>
+  <LocationID>0</LocationID>
+  <RequestBody>
+    <DownLoadDocumentRequest>
+      <LRO>33</LRO>
+      <InstrumentNumber>LT486560</InstrumentNumber>
+      <ViewKey>ALL</ViewKey>
+      <DocumentName>LT486560</DocumentName>
+      <DocumentNumber>3001128</DocumentNumber>
+      <StartPage>1</StartPage>
+      <EndPage>2</EndPage>
+      <ConcatenateRequired>false</ConcatenateRequired>
+      <ConvertTiffToPDFRequired>true</ConvertTiffToPDFRequired>
+    </DownLoadDocumentRequest>
+  </RequestBody>
+  <PaymentMethod>
+    <DebitAccount>
+      <DepositAcctCredentials>
+        <TeraviewAccountName>PTREM002</TeraviewAccountName>
+        <TVCredential username="FSmith02" password="Teranet1" />
+      </DepositAcctCredentials>
+    </DebitAccount>
+  </PaymentMethod>
+</DoPurchase>]]></RequestBody>     
+         <TransactionId>TransactionID</TransactionId>  
+         </Body> </Request>

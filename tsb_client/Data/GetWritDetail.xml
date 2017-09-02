@@ -1,0 +1,41 @@
+<Request>
+   <Header>
+        <ApplicationName>TESTAPP</ApplicationName>
+    <ServiceName>Writservice</ServiceName>
+    <Method>GetWritDetail</Method>
+    <VersionToken>12.0</VersionToken>
+    <LocationCode>LocationCode</LocationCode>
+  </Header>
+ <Body>
+    <RequestBody>
+   <![CDATA[<DoPurchase>
+  <Description>Description</Description>
+  <DocketSystemID>25022605365</DocketSystemID>
+  <LocationID>0</LocationID>
+  <RequestBody>
+    <WritsGetDetailRequest>
+      <EO>7366</EO>
+      <ClientRefNum>ClientRefNum</ClientRefNum>
+      <FileNumber>13-0000249</FileNumber>
+      <ExpectedStatus>P</ExpectedStatus>
+      <Certificate>
+        <RequestedBy>RequestedBy</RequestedBy>
+        <ReferenceTo>SoapUI</ReferenceTo>
+        <MaxCertificateSize>1</MaxCertificateSize>
+        <ChargeableInd>true</ChargeableInd>
+      </Certificate>
+    </WritsGetDetailRequest>
+  </RequestBody>
+  <PaymentMethod>
+    <DebitAccount>
+      <DepositAcctCredentials>
+         <TeraviewAccountName>ptrem002</TeraviewAccountName>      
+         <TVCredential username="fsmith02" password="Teranet1"/>    
+      </DepositAcctCredentials>
+    </DebitAccount>
+  </PaymentMethod>
+</DoPurchase>]]>
+         </RequestBody>
+    <TransactionId>TransactionID</TransactionId>
+  </Body>
+</Request>

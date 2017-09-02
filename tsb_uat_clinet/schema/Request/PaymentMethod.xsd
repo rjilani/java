@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by Perry Yao (Teranet) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:include schemaLocation="DepositAccountCredentials.xsd"/>
+	<!-- Payment Info -->
+	<xs:element name="PaymentMethod">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="DebitAccount">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element ref="DepositAcctCredentials"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

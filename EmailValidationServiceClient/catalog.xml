@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://40368-NB:9000/ws/date?wsdl" uri="xml-resources/web-service-references/date/wsdl/40368-NB_9000/ws/date.wsdl"/>
+    <system systemId="http://40368-NB:9000/ws/date?wsdl=1" uri="xml-resources/web-service-references/date/wsdl/40368-NB_9000/ws/date.wsdl_1.wsdl"/>
+    <system systemId="http://40368-NB:9000/ws/email?wsdl" uri="xml-resources/web-service-references/email/wsdl/40368-NB_9000/ws/email.wsdl"/>
+    <system systemId="http://40368-NB:9000/ws/email?wsdl=1" uri="xml-resources/web-service-references/email/wsdl/40368-NB_9000/ws/email.wsdl_1.wsdl"/>
+    <system systemId="http://mrktsbapvldv01:9000/ws/email?wsdl" uri="xml-resources/web-service-references/email/wsdl/mrktsbapvldv01_9000/ws/email.wsdl"/>
+    <system systemId="http://mrktsbapvldv01:9000/ws/email?wsdl=1" uri="xml-resources/web-service-references/email/wsdl/mrktsbapvldv01_9000/ws/email.wsdl_1.wsdl"/>
+</catalog>

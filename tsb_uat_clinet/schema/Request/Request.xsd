@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by Perry Yao (Teranet) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="Request">
+		<xs:annotation>
+			<xs:documentation>It's a common interface schema</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element name="Header">
+					<xs:complexType>
+						<xs:all>
+							<xs:element name="ApplicationName" type="xs:string">
+								<xs:annotation>
+									<xs:documentation>TSB application name provided by Teranet</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="ServiceName">
+								<xs:annotation>
+									<xs:documentation>Name of service to invoke</xs:documentation>
+								</xs:annotation>
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:enumeration value="Dawsservice"/>
+										<xs:enumeration value="Pinservice"/>
+										<xs:enumeration value="Documentservice"/>
+										<xs:enumeration value="Mapservice"/>
+										<xs:enumeration value="Writservice"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="Method">
+								<xs:annotation>
+									<xs:documentation>Actual method to call, indicates what the content of the request body will be</xs:documentation>
+								</xs:annotation>
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:enumeration value="ChangePassword"/>
+										<xs:enumeration value="GetBalance"/>
+										<xs:enumeration value="GetDocketSummary"/>
+										<xs:enumeration value="CreateDocket"/>
+										<xs:enumeration value="SearchDocketById"/>
+										<xs:enumeration value="SearchDocketByName"/>
+										<xs:enumeration value="SearchPropertiesByAddress"/>
+										<xs:enumeration value="SearchPropertiesByOwnerName"/>
+										<xs:enumeration value="SearchPropertiesByInstrument"/>
+										<xs:enumeration value="SearchPropertyOwnerNames"/>
+										<xs:enumeration value="SearchPropertyByPIN"/>
+										<xs:enumeration value="GetParcelRegister"/>
+										<xs:enumeration value="SearchDocument"/>
+										<xs:enumeration value="DownLoadDocument"/>
+										<xs:enumeration value="Courier"/>
+										<xs:enumeration value="OrderExceptionDocument"/>										
+										<xs:enumeration value="GetAdjacentMap"/>
+										<xs:enumeration value="SearchWritByName"/>
+										<xs:enumeration value="GetWritDetail"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="VersionToken" type="xs:string">
+								<xs:annotation>
+									<xs:documentation>XSD version</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="LocationCode" type="xs:string" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation>Use 1 for regular business hours, 100 to test outside business hours</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+						</xs:all>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Body">
+					<xs:complexType>
+						<xs:all>
+							<xs:element name="RequestBody" type="xs:anyType"/>
+							<xs:element name="TransactionId">
+								<xs:annotation>
+									<xs:documentation>Client supplied, may be used for tracking or linking transactions</xs:documentation>
+								</xs:annotation>
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:minLength value="1"/>
+										<xs:maxLength value="20"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+						</xs:all>
+					</xs:complexType>
+				</xs:element>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

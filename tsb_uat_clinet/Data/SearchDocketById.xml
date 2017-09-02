@@ -1,0 +1,19 @@
+<Request>   
+         <Header>        
+         <ApplicationName>TESTAPP</ApplicationName>     
+         <ServiceName>Dawsservice</ServiceName>    
+         <Method>SearchDocketById</Method>     
+         <VersionToken>12.0</VersionToken>     
+         <LocationCode>LocationCode</LocationCode>  
+         </Header><Body><RequestBody><![CDATA[<Request>
+          <DepositAcctCredentials>        
+         <TeraviewAccountName>PTREM002</TeraviewAccountName>      
+         <TVCredential username="FSmith02" password="Teranet1"/>    
+         </DepositAcctCredentials> 
+  <SearchCriteria>
+    <DocketId>Anne1</DocketId>
+    <IsActive></IsActive>
+  </SearchCriteria>
+</Request>]]></RequestBody>     
+         <TransactionId>TransactionID</TransactionId>  
+         </Body> </Request>

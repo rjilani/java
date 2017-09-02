@@ -1,0 +1,645 @@
+DownLoadDocument.xml<Response>
+		<ResponseBody>
+			<Reference>
+				<DateTime>2014-11-12T14:22:28.835-05:00</DateTime>
+				<VersionToken>12.0</VersionToken>
+				<ResponseId>335999</ResponseId>
+			</Reference>
+	</ResponseBody>
+	<Errors Count="1">
+			<Error>
+				<ErrorCode>DAW21048</ErrorCode>
+				<ErrorText>The docket is not associated with this account.  Please double check the docket.</ErrorText>
+			</Error>
+	</Errors>
+	<StatusCode>1</StatusCode>
+</Response>
+
+
+
+
+
+SearchDocument.xml<Response>
+		<ResponseBody>
+			<ResponseData><Response>
+ <RequestID>2014-11-12_14_22_29_453-4-6728</RequestID>
+ <InstrumentDocInfos>
+ <InstrumentDocInfo>
+  	<InstrumentNumber>MT7030861</InstrumentNumber>
+	<Errors Count="1">
+	<Error>
+			<ErrorCode>DOC6027-3</ErrorCode>
+ 			<ErrorText>Instrument not found in specified LRO.;Non-existence --- Registration number not found</ErrorText>
+   	</Error>
+	</Errors>
+ </InstrumentDocInfo>
+ </InstrumentDocInfos>
+ </Response>
+ 
+ 
+</ResponseData>
+			<Reference>
+				<DateTime>2014-11-12T14:22:29.675-05:00</DateTime>
+				<VersionToken>12.0</VersionToken>
+				<ResponseId>336050</ResponseId>
+			</Reference>
+	</ResponseBody>
+	<StatusCode>1</StatusCode>
+</Response>
+
+
+
+
+
+GetParcelRegister.xml<Response>
+		<ResponseBody>
+			<Reference>
+				<DateTime>2014-11-12T14:22:33.157-05:00</DateTime>
+				<VersionToken>12.0</VersionToken>
+				<ResponseId>336051</ResponseId>
+			</Reference>
+	</ResponseBody>
+	<Errors Count="1">
+			<Error>
+				<ErrorCode>DAW21048</ErrorCode>
+				<ErrorText>The docket is not associated with this account.  Please double check the docket.</ErrorText>
+			</Error>
+	</Errors>
+	<StatusCode>1</StatusCode>
+</Response>
+
+
+
+
+
+SearchPropertyOwnerNames.xml<Response>
+		<ResponseBody>
+			<ResponseData><Response>
+	<piCount>1</piCount>
+    <piFound>1</piFound>
+	        <Name>
+    	        <FirstName></FirstName>
+        	    <LastName>BELL CANADA</LastName>
+    	    </Name>
+</Response>
+
+
+</ResponseData>
+			<Reference>
+				<DateTime>2014-11-12T14:22:33.747-05:00</DateTime>
+				<VersionToken>12.0</VersionToken>
+				<ResponseId>336052</ResponseId>
+			</Reference>
+	</ResponseBody>
+	<StatusCode>0</StatusCode>
+</Response>
+
+
+
+
+
+SearchWritByName.xml<Response>
+		<ResponseBody>
+			<Reference>
+				<DateTime>2014-11-12T14:22:34.933-05:00</DateTime>
+				<VersionToken>12.0</VersionToken>
+				<ResponseId>336053</ResponseId>
+			</Reference>
+	</ResponseBody>
+	<Errors Count="1">
+			<Error>
+				<ErrorCode>DAW21048</ErrorCode>
+				<ErrorText>The docket is not associated with this account.  Please double check the docket.</ErrorText>
+			</Error>
+	</Errors>
+	<StatusCode>1</StatusCode>
+</Response>
+
+
+
+
+
+SearchPropertiesByInstrument.xml<Response>
+		<ResponseBody>
+			<ResponseData><Response>
+  <piCount>1</piCount>
+  <piFound>1</piFound>
+  <PinInfo>
+    <PIN>08323-0071</PIN>
+    <RegistrationType>L</RegistrationType>
+    <StatusInd>A</StatusInd>
+    <Address>
+      <StreetNumber>36</StreetNumber>
+      <StreetName>BECHER ST</StreetName>
+      <StreetSuffix></StreetSuffix>
+      <UnitType></UnitType>
+      <UnitNo></UnitNo>
+      <AdminArea>LONDON</AdminArea>
+    </Address>
+    <LegalDesc>PT LT 32 , PL 26(4TH) , AS IN 944815 ; LONDON ; SUBJECT TO EXECUTION 
+89-1730, IF ENFORCEABLE. ; SUBJECT TO EXECUTION 91-1274, IF 
+</LegalDesc>
+  </PinInfo>
+</Response>
+</ResponseData>
+			<Reference>
+				<DateTime>2014-11-12T14:22:35.412-05:00</DateTime>
+				<VersionToken>12.0</VersionToken>
+				<ResponseId>336054</ResponseId>
+			</Reference>
+	</ResponseBody>
+	<StatusCode>0</StatusCode>
+</Response>
+
+
+
+
+
+GetWritDetail.xml<Response>
+		<ResponseBody>
+			<Reference>
+				<DateTime>2014-11-12T14:22:36.784-05:00</DateTime>
+				<VersionToken>12.0</VersionToken>
+				<ResponseId>336055</ResponseId>
+			</Reference>
+	</ResponseBody>
+	<Errors Count="1">
+			<Error>
+				<ErrorCode>DAW21048</ErrorCode>
+				<ErrorText>The docket is not associated with this account.  Please double check the docket.</ErrorText>
+			</Error>
+	</Errors>
+	<StatusCode>1</StatusCode>
+</Response>
+
+
+
+
+
+GetAdjacentMap.xml<Response>
+		<ResponseBody>
+			<Reference>
+				<DateTime>2014-11-12T14:22:37.248-05:00</DateTime>
+				<VersionToken>12.0</VersionToken>
+				<ResponseId>336056</ResponseId>
+			</Reference>
+	</ResponseBody>
+	<Errors Count="1">
+			<Error>
+				<ErrorCode>-120000</ErrorCode>
+				<ErrorText>The parcel register was not requested for the subject property.</ErrorText>
+			</Error>
+	</Errors>
+	<StatusCode>1</StatusCode>
+</Response>
+
+
+
+
+
+SearchPropertyByPIN.xml<Response>
+		<ResponseBody>
+			<ResponseData><Response>
+  <PinInfo>
+    <PIN>08480-0200</PIN>
+    <RegistrationType>L</RegistrationType>
+    <StatusInd>A</StatusInd>
+    <Address>
+      <StreetNumber>41</StreetNumber>
+      <StreetName>LYSANDA AVENUE</StreetName>
+      <StreetSuffix></StreetSuffix>
+      <UnitType></UnitType>
+      <UnitNo></UnitNo>
+      <AdminArea>LONDON</AdminArea>
+    </Address>
+    <LegalDesc>LOT 68, PLAN 1014 SUBJECT TO 384417 LONDON/WESTMINSTER 
+  
+</LegalDesc>
+  </PinInfo>
+</Response>
+</ResponseData>
+			<Reference>
+				<DateTime>2014-11-12T14:22:37.873-05:00</DateTime>
+				<VersionToken>12.0</VersionToken>
+				<ResponseId>336057</ResponseId>
+			</Reference>
+	</ResponseBody>
+	<StatusCode>0</StatusCode>
+</Response>
+
+
+
+
+
+SearchPropertiesByAddress.xml<Response>
+		<ResponseBody>
+			<ResponseData><Response>
+  <piCount>1</piCount>
+  <piFound>1</piFound>
+  <PinInfo>
+    <PIN>08065-1123</PIN>
+    <RegistrationType>L</RegistrationType>
+    <StatusInd>A</StatusInd>
+    <Address>
+      <StreetNumber>1615</StreetNumber>
+      <StreetName>ALDERSBROOK ROAD</StreetName>
+      <StreetSuffix></StreetSuffix>
+      <UnitType></UnitType>
+      <UnitNo></UnitNo>
+      <AdminArea>LONDON</AdminArea>
+    </Address>
+    <LegalDesc>PARCEL 374-1, SECTION M2 LOT 374, PLAN M2, SUBJECT TO LT1126 
+LONDON/LONDON TOWNSHIP 
+</LegalDesc>
+  </PinInfo>
+</Response>
+</ResponseData>
+			<Reference>
+				<DateTime>2014-11-12T14:22:38.419-05:00</DateTime>
+				<VersionToken>12.0</VersionToken>
+				<ResponseId>336058</ResponseId>
+			</Reference>
+	</ResponseBody>
+	<StatusCode>0</StatusCode>
+</Response>
+
+
+
+
+
+SearchPropertiesByOwnerName.xml<Response>
+		<ResponseBody>
+			<ResponseData><Response>
+  <piCount>1</piCount>
+  <piFound>1</piFound>
+  <PinInfo>
+    <PIN>08304-0008</PIN>
+    <RegistrationType>L</RegistrationType>
+    <StatusInd>A</StatusInd>
+    <Address>
+      <StreetNumber>871</StreetNumber>
+      <StreetName>DUNDAS STREET</StreetName>
+      <StreetSuffix></StreetSuffix>
+      <UnitType></UnitType>
+      <UnitNo></UnitNo>
+      <AdminArea>LONDON</AdminArea>
+    </Address>
+    <LegalDesc>PT LT 13 PLAN 413(3RD), PT 2 33R5433 LONDON 
+  
+</LegalDesc>
+  </PinInfo>
+</Response>
+</ResponseData>
+			<Reference>
+				<DateTime>2014-11-12T14:22:39.089-05:00</DateTime>
+				<VersionToken>12.0</VersionToken>
+				<ResponseId>336059</ResponseId>
+			</Reference>
+	</ResponseBody>
+	<StatusCode>0</StatusCode>
+</Response>
+
+
+
+
+
+SearchDocketByName.xml<Response>
+		<ResponseBody>
+			<ResponseData><Response>
+<DocketSearchDetails>
+<DocketSearchDetail>
+<DocketSystemId>25021791458</DocketSystemId>
+<DocketId>56432420  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021792590</DocketSystemId>
+<DocketId>58051164  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791485</DocketSystemId>
+<DocketId>58409604  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021793052</DocketSystemId>
+<DocketId>58531484  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791460</DocketSystemId>
+<DocketId>59859352  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791489</DocketSystemId>
+<DocketId>60230940  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791486</DocketSystemId>
+<DocketId>60389524  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791461</DocketSystemId>
+<DocketId>60586340  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791487</DocketSystemId>
+<DocketId>60839156  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021793050</DocketSystemId>
+<DocketId>60957808  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791451</DocketSystemId>
+<DocketId>60996344  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791484</DocketSystemId>
+<DocketId>62315768  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021793465</DocketSystemId>
+<DocketId>64040596  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791471</DocketSystemId>
+<DocketId>64224364  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791491</DocketSystemId>
+<DocketId>64785616  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021792968</DocketSystemId>
+<DocketId>65338044  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791457</DocketSystemId>
+<DocketId>65659160  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791453</DocketSystemId>
+<DocketId>65664172  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791455</DocketSystemId>
+<DocketId>77414928  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791468</DocketSystemId>
+<DocketId>79144760  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791459</DocketSystemId>
+<DocketId>80316928  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791465</DocketSystemId>
+<DocketId>80740456  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791463</DocketSystemId>
+<DocketId>82347248  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791473</DocketSystemId>
+<DocketId>83525296  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791466</DocketSystemId>
+<DocketId>84330456  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791454</DocketSystemId>
+<DocketId>87407680  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791462</DocketSystemId>
+<DocketId>89983728  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791456</DocketSystemId>
+<DocketId>90187984  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791467</DocketSystemId>
+<DocketId>90259664  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791469</DocketSystemId>
+<DocketId>90901488  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791452</DocketSystemId>
+<DocketId>94486032  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+<DocketSearchDetail>
+<DocketSystemId>25021791464</DocketSystemId>
+<DocketId>95263216  </DocketId>
+<DocketName>Docket is created</DocketName>
+<DocketStatus>Y</DocketStatus>
+</DocketSearchDetail>
+</DocketSearchDetails>
+</Response>
+</ResponseData>
+			<Reference>
+				<DateTime>2014-11-12T14:22:39.751-05:00</DateTime>
+				<VersionToken>12.0</VersionToken>
+				<ResponseId>336060</ResponseId>
+			</Reference>
+	</ResponseBody>
+	<StatusCode>0</StatusCode>
+</Response>
+
+
+
+
+
+SearchDocketById.xml<Response>
+		<ResponseBody>
+			<Reference>
+				<DateTime>2014-11-12T14:22:39.963-05:00</DateTime>
+				<VersionToken>12.0</VersionToken>
+				<ResponseId></ResponseId>
+			</Reference>
+	</ResponseBody>
+	<Errors Count="1">
+			<Error>
+				<ErrorCode>-111000</ErrorCode>
+				<ErrorText>The request xml is not valid. Please check XSD.</ErrorText>
+			</Error>
+	</Errors>
+	<StatusCode>1</StatusCode>
+</Response>
+
+
+
+
+
+GetBalance.xml<Response>
+		<ResponseBody>
+			<ResponseData><Response>
+	<TeranetDepositAcctBalance>25284.23</TeranetDepositAcctBalance>
+</Response></ResponseData>
+			<Reference>
+				<DateTime>2014-11-12T14:22:40.500-05:00</DateTime>
+				<VersionToken>12.0</VersionToken>
+				<ResponseId>336061</ResponseId>
+			</Reference>
+	</ResponseBody>
+	<StatusCode>0</StatusCode>
+</Response>
+
+
+
+
+
+CreateDocket.xml<Response>
+		<ResponseBody>
+			<Reference>
+				<DateTime>2014-11-12T14:22:41.089-05:00</DateTime>
+				<VersionToken>12.0</VersionToken>
+				<ResponseId>336062</ResponseId>
+			</Reference>
+	</ResponseBody>
+	<Errors Count="1">
+			<Error>
+				<ErrorCode>DAW21022</ErrorCode>
+				<ErrorText>DocketId already exist.</ErrorText>
+			</Error>
+	</Errors>
+	<StatusCode>1</StatusCode>
+</Response>
+
+
+
+
+
+GetDocketSummary.xml<Response>
+		<ResponseBody>
+			<Reference>
+				<DateTime>2014-11-12T14:22:41.686-05:00</DateTime>
+				<VersionToken>12.0</VersionToken>
+				<ResponseId>336063</ResponseId>
+			</Reference>
+	</ResponseBody>
+	<Errors Count="1">
+			<Error>
+				<ErrorCode>DAW21048</ErrorCode>
+				<ErrorText>The docket is not associated with this account.  Please double check the docket.</ErrorText>
+			</Error>
+	</Errors>
+	<StatusCode>1</StatusCode>
+</Response>
+
+
+
+
+
+OrderExceptionDocument.xml<Response>
+		<ResponseBody>
+			<ResponseData><Response>
+ <InstrumentInfos>
+ <InstrumentInfo>
+  	<InstrumentNumber>JP12345678</InstrumentNumber>
+  	<SubmissionState>-1</SubmissionState>
+ </InstrumentInfo>
+ </InstrumentInfos>
+ </Response>
+ 
+ 
+</ResponseData>
+			<Reference>
+				<DateTime>2014-11-12T14:22:42.484-05:00</DateTime>
+				<VersionToken>12.0</VersionToken>
+				<ResponseId>336064</ResponseId>
+			</Reference>
+	</ResponseBody>
+	<StatusCode>0</StatusCode>
+</Response>
+
+
+
+
+
+Courier.xml<Response>
+		<ResponseBody>
+			<Reference>
+				<DateTime>2014-11-12T14:22:43.133-05:00</DateTime>
+				<VersionToken>12.0</VersionToken>
+				<ResponseId>336065</ResponseId>
+			</Reference>
+	</ResponseBody>
+	<Errors Count="1">
+			<Error>
+				<ErrorCode>-213180</ErrorCode>
+				<ErrorText>No plans or eligible instruments were found in the request.</ErrorText>
+			</Error>
+	</Errors>
+	<StatusCode>1</StatusCode>
+</Response>
+
+
+
+
+

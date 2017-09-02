@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://mrktsbapvldv01:8280/tsb/TeranetServiceBean?wsdl" uri="xml-resources/web-service-references/TeranetServiceBean/wsdl/mrktsbapvldv01_8280/tsb/TeranetServiceBean.wsdl"/>
+</catalog>

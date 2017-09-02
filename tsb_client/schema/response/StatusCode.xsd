@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by Perry Yao (Teranet) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="StatusCode">
+		<xs:annotation>
+			<xs:documentation>Generic Code for TSB response. See enum.</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xs:short">
+				<xs:enumeration value="0">
+				<xs:annotation><xs:documentation>Success</xs:documentation></xs:annotation>
+				</xs:enumeration>
+				<xs:enumeration value="1">
+				<xs:annotation><xs:documentation>Presence of business errors</xs:documentation></xs:annotation>
+				</xs:enumeration>
+				<xs:enumeration value="2">
+				<xs:annotation><xs:documentation>Presence of system errors</xs:documentation></xs:annotation>
+				</xs:enumeration>
+				<xs:enumeration value="3">
+				<xs:annotation><xs:documentation>Presence of unknown errors</xs:documentation></xs:annotation>
+				</xs:enumeration>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+</xs:schema>

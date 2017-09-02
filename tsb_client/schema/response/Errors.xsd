@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by Perry Yao (Teranet) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="Errors">
+		<xs:annotation>
+			<xs:documentation>Errors from TSB. Please refer to TSB Error Codes.doc for details</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Error" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:all>
+							<xs:element name="ErrorCode" type="xs:string"/>
+							<xs:element name="ErrorText" type="xs:string"/>
+						</xs:all>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute name="Count" type="xs:int" use="required">
+				<xs:annotation>
+					<xs:documentation>Number of errors</xs:documentation>
+				</xs:annotation>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by Perry Yao (Teranet) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:include schemaLocation="PaymentMethod.xsd"/>
+	<xs:element name="DoPurchase">
+		<xs:annotation>
+			<xs:documentation>Order plans and documents that will be couriered to your office</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="DocketSystemID">
+					<xs:simpleType>
+						<xs:restriction base="xs:long">
+							<xs:minInclusive value="0"/>
+							<xs:maxInclusive value="999999999999"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="LocationID" type="xs:short">
+					<xs:annotation>
+						<xs:documentation>Land registration office number</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element name="RequestBody" type="RequestBodyType">
+					<xs:annotation>
+						<xs:documentation>Contains courier request information</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="PaymentMethod"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<!--  RequestBody -->
+	<xs:complexType name="RequestBodyType">
+		<xs:sequence>
+			<xs:element name="CourierRequest">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="LRO" type="xs:int">
+							<xs:annotation>
+								<xs:documentation>Land registration office number</xs:documentation>
+							</xs:annotation>
+						</xs:element>
+						<xs:element name="RecipientName" type="xs:string">
+							<xs:annotation>
+								<xs:documentation>The courier recipient name</xs:documentation>
+							</xs:annotation>
+						</xs:element>
+						<xs:element name="Address" type="Address">
+							<xs:annotation>
+								<xs:documentation>The courier address</xs:documentation>
+							</xs:annotation>
+						</xs:element>
+						<xs:element name="DeliveryInstructions" type="xs:string" minOccurs="0">
+							<xs:annotation>
+								<xs:documentation>The special delivery instructions.</xs:documentation>
+							</xs:annotation>
+						</xs:element>
+						<xs:element name="InstrumentNumbers">
+							<xs:annotation>
+								<xs:documentation>The list of the instruments to be couriered</xs:documentation>
+							</xs:annotation>
+							<xs:complexType>
+								<xs:sequence>
+									<xs:element name="InstrumentNumber" type="xs:string" maxOccurs="10">
+										<xs:annotation>
+											<xs:documentation>The instrument registration number</xs:documentation>
+										</xs:annotation>
+									</xs:element>
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<!-- Courier Address -->
+	<xs:complexType name="Address">
+		<xs:sequence>
+			<xs:element name="StreetNumberAndName" type="xs:string"/>
+			<xs:element name="City" type="xs:string"/>
+			<xs:element name="Province" type="xs:string"/>
+			<xs:element name="PostalCode" type="xs:string"/>
+			<xs:element name="Country" type="xs:string" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>Future reserved identifier</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>

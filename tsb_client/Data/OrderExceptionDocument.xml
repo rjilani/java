@@ -1,0 +1,24 @@
+<Request>
+   <Header>
+    <ApplicationName>TESTAPP</ApplicationName>
+    <ServiceName>Documentservice</ServiceName>
+    <Method>OrderExceptionDocument</Method>
+    <VersionToken>12.0</VersionToken>
+    <LocationCode>100</LocationCode>
+  </Header>
+  <Body>
+    <RequestBody>
+         <![CDATA[<Request>
+                              <DepositAcctCredentials>
+                             <TeraviewAccountName>ptrem002</TeraviewAccountName>
+                             <TVCredential username="fsmith02" password="Teranet1" />
+                              </DepositAcctCredentials> 
+                              <LRO>33</LRO>
+                              <InstrumentNumbers>                                                                                           
+							<InstrumentNumber>JP12345678</InstrumentNumber>                                                             
+                               </InstrumentNumbers>
+                                </Request>]]>
+          </RequestBody>
+    <TransactionId>T</TransactionId>
+  </Body>
+</Request>

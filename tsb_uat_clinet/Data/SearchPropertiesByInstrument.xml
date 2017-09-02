@@ -1,0 +1,22 @@
+<Request>
+   <Header>
+        <ApplicationName>TESTAPP</ApplicationName>
+    <ServiceName>Pinservice</ServiceName>
+    <Method>SearchPropertiesByInstrument</Method>
+    <VersionToken>12.0</VersionToken>
+    <LocationCode>LocationCode</LocationCode>
+  </Header>
+  <Body>
+    <RequestBody>
+                <![CDATA[<Request>
+                         <DepositAcctCredentials>
+                         <TeraviewAccountName>PTREM002</TeraviewAccountName>      
+         				<TVCredential username="FSmith02" password="********"/>  
+                         </DepositAcctCredentials>
+                          <LRO>33</LRO>
+  					<InstrumentNumber>944815</InstrumentNumber>
+                </Request>]]>
+         </RequestBody>
+    <TransactionId>TransactionID</TransactionId>
+  </Body>
+</Request>

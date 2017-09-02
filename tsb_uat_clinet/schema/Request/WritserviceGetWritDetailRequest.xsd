@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by Perry Yao (Teranet) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:include schemaLocation="PaymentMethod.xsd"/>
+	<xs:complexType name="RequestBodyType">
+		<xs:sequence>
+			<xs:element name="WritsGetDetailRequest">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="EO" type="xs:int">
+							<xs:annotation>
+								<xs:documentation>Enforcement office number</xs:documentation>
+							</xs:annotation>
+						</xs:element>
+						<xs:element name="ClientRefNum" type="xs:string">
+							<xs:annotation>
+								<xs:documentation>Client reference number</xs:documentation>
+							</xs:annotation>
+						</xs:element>
+						<xs:element name="FileNumber" type="xs:string">
+							<xs:annotation>
+								<xs:documentation>Execution number</xs:documentation>
+							</xs:annotation>
+						</xs:element>
+						<xs:element name="ExpectedStatus">
+							<xs:annotation>
+								<xs:documentation>See enum</xs:documentation>
+							</xs:annotation>
+							<xs:simpleType>
+								<xs:restriction base="xs:string">
+									<xs:enumeration value="P">
+										<xs:annotation>
+											<xs:documentation>Writ is posted</xs:documentation>
+										</xs:annotation>
+									</xs:enumeration>
+								</xs:restriction>
+							</xs:simpleType>
+						</xs:element>
+						<xs:element name="Certificate">
+							<xs:annotation>
+								<xs:documentation>To retrieve a details PDF report</xs:documentation>
+							</xs:annotation>
+							<xs:complexType>
+								<xs:sequence>
+									<xs:element name="RequestedBy" type="xs:string" minOccurs="0">
+										<xs:annotation>
+											<xs:documentation>An identifier of users preparing request</xs:documentation>
+										</xs:annotation>
+									</xs:element>
+									<xs:element name="ReferenceTo" type="xs:string" minOccurs="0"/>
+									<xs:element name="MaxCertificateSize" nillable="true" minOccurs="0">
+										<xs:annotation>
+											<xs:documentation>The max size of certificate by bytes</xs:documentation>
+										</xs:annotation>
+									</xs:element>
+									<xs:element name="ChargeableInd">
+										<xs:annotation>
+											<xs:documentation>Indicator if amount is to be shown in the certificate. See enum</xs:documentation>
+										</xs:annotation>
+										<xs:simpleType>
+											<xs:restriction base="xs:string">
+												<xs:enumeration value="true"/>
+											</xs:restriction>
+										</xs:simpleType>
+									</xs:element>
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="DoPurchase">
+		<xs:annotation>
+			<xs:documentation>Purchase writs get detail products</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Description" type="xs:string">
+					<xs:annotation>
+						<xs:documentation>Expected format: execution#</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element name="DocketSystemID">
+					<xs:annotation>
+						<xs:documentation>Value of this is returned from the creator of search docket</xs:documentation>
+					</xs:annotation>
+					<xs:simpleType>
+						<xs:restriction base="xs:long">
+							<xs:minInclusive value="0"/>
+							<xs:maxInclusive value="999999999999"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="LocationID" type="xs:short">
+					<xs:annotation>
+						<xs:documentation>Land registration office number</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element name="RequestBody" type="RequestBodyType">
+					<xs:annotation>
+						<xs:documentation>Contains request to call writ get detail</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="PaymentMethod"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,35 @@
+<Request>   
+         <Header>        
+         <ApplicationName>TESTAPP</ApplicationName>     
+         <ServiceName>Writservice</ServiceName>    
+         <Method>SearchWritByName</Method>     
+         <VersionToken>12.0</VersionToken>     
+         <LocationCode>LocationCode</LocationCode>  
+         </Header>  <Body>     <RequestBody>    
+         <![CDATA[<DoPurchase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="WritserviceSearchWritByNameRequest.xsd">   
+         <Description>Description</Description>   
+	    <DocketSystemID>25022605365</DocketSystemID>
+         <LocationID>0</LocationID>   
+         <RequestBody>     
+         <WritSearchbyNameRequest>       
+         <EO>7346</EO>       
+         <ClientRefNum>ClientRefNum</ClientRefNum>       
+         <SearchName>         
+         <FirstName>DA</FirstName>         
+         <LastName>S</LastName>         
+         <Type>P</Type>               
+         </SearchName>       
+         <SearchAllInd>false</SearchAllInd>       
+         <ChargeableInd>true</ChargeableInd>     
+         </WritSearchbyNameRequest>   
+         </RequestBody>   
+         <PaymentMethod>     
+         <DebitAccount>       
+         <DepositAcctCredentials>        
+         <TeraviewAccountName>ptrem002</TeraviewAccountName>      
+         <TVCredential username="fsmith02" password="Teranet1"/>    
+         </DepositAcctCredentials>    
+         </DebitAccount>  
+         </PaymentMethod> </DoPurchase>]]></RequestBody>     
+         <TransactionId>TransactionID</TransactionId>  
+         </Body> </Request>
